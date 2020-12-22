@@ -1,8 +1,10 @@
 # Video-Podcast-Streaming- (Computer-Networks)
 
 # Defination #
-Markup : 1. Video Streaming over IP : The connections of sockets, to initially receive the information about available stations, is done using TCP. The video files are sent over UDP socket.
-         2. Podcast Streaming over IP : An application of internet radio which involves multicasting of data in the form of multimedia over IP. The connection of sockets is initially done using TCP which establishes control channel. Then the multimedia is sent using UDP socket since it is more efficient for multicast type of transmission.
+## 1. Video Streaming over IP : ## 
+The connections of sockets, to initially receive the information about available stations, is done using TCP. The video files are sent over UDP socket.
+## 2. Podcast Streaming over IP : ##
+An application of internet radio which involves multicasting of data in the form of multimedia over IP. The connection of sockets is initially done using TCP which establishes control channel. Then the multimedia is sent using UDP socket since it is more efficient for multicast type of transmission.
 
 # Execution of the Project
 Commands needed to run the source code:
